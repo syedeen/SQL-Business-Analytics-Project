@@ -34,3 +34,6 @@ https://dev.mysql.com/doc/index-other.html
 - Load the Sakila dataset in MySQL
 - Execute SQL queries from the notebook
 - Review outputs and insights section
+
+```bash
+ pip install ipython-sql mysql-connector-python
