@@ -37,3 +37,12 @@ https://dev.mysql.com/doc/index-other.html
 
 ```bash
  pip install ipython-sql mysql-connector-python
+```
+
+## Preview
+<div>
+ <img src="images/img1.png" height="500" width="500">
+ <img src="images/img2.png" height="500" width="500">
+ <img src="images/img3.png" height="500" width="500">
+ <img src="images/img4.png" height="500" width="500">
+</div>
